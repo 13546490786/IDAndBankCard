@@ -1,0 +1,6 @@
+framework module Pods_IDAndBankCard {
+  umbrella header "Pods-IDAndBankCard-umbrella.h"
+
+  export *
+  module * { export * }
+}
